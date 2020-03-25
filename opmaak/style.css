@@ -1,0 +1,21 @@
+body {
+  background-color: green;
+}
+
+img{
+  object-fit: contain;
+  width:200px;
+  height:200px;
+}
+
+section{
+  height: 300px;
+  width:300px;
+  background: yellow;
+}
+
+  header{
+    display:grid;
+    grid-template-columns: 1fr;
+  }
+}
